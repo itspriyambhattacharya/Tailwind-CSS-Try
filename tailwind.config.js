@@ -40,7 +40,9 @@ module.exports = {
         'footer': '#616161',
       },
       fontFamily: {
-        'sans': 'Tahoma, Verdana, Arial, sans-serif',
+        'verdana': ' Verdana, sans-serif',
+        'tahoma': ' Tahoma, sans-serif',
+        'arial': ' Arial, sans-serif',
       },
       fontSize: {
         '11': '11px',
