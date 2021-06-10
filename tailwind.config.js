@@ -13,6 +13,7 @@ module.exports = {
         18: '18px',
         67: '67px',
         30: '30px',
+        37: '37px',
       },
       colors: {
         'navc': '#2b6198',
