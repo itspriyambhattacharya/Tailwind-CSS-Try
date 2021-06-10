@@ -9,9 +9,10 @@ module.exports = {
         594: '594px',
         253: '253px',
         242: '242px',
-        242: '242px',
+        206: '206px',
         174: '174px',
         67: '67px',
+        40: '40px',
         37: '37px',
         30: '30px',
         26: '26px' ,
@@ -28,6 +29,7 @@ module.exports = {
         'list': '#1b5fa4',
         'readmore': '#ba4004',
         'tborder': '#535353',
+        'input': '#5d5d5d',
       },
       fontFamily: {
         'sans': 'Tahoma, Verdana, Arial, sans-serif',
@@ -39,7 +41,7 @@ module.exports = {
         '19': '19px',
         '55': '55px',
         '33': '33px',
-      }
+      },
     },
   },
   variants: {
